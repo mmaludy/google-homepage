@@ -83,6 +83,10 @@ body {
 	font-size: 16px;
 }
 
+#search input[type=text]:focus {
+	outline: none;
+}
+
 #search input[type=text]:hover {
 	box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.15);
 }
@@ -99,11 +103,13 @@ body {
 	border: 0;
 	opacity: 0.9;
 	border-radius: 2px;
-	font-size: 16x;
+	font-size: 14x;
+	font-weight: 400;
 }
 
 .buttons:hover {
 	border: 1px solid #ddd;
+	background-color: #F5F5F5;
 }
 
 #footer {
