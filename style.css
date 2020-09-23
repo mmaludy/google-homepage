@@ -64,7 +64,6 @@ body {
 #main {
 	margin-top: 135px;
 	display: flex;
-	height: 800px;
 	align-items: center;
 	flex-direction: column;
 }
