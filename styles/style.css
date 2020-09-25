@@ -42,7 +42,7 @@ body {
 	margin-left: 5px;;
 	margin-top: 6px;
 	padding: 14px 15px;
-	background-image: url(images/apps.png);
+	background-image: url(/images/apps.png);
 	background-position: -132px -38px;
 	opacity: 0.55;
 	
@@ -53,7 +53,7 @@ body {
 }
 
 #user-image {
-	background-image: url(images/my_av.png);
+	background-image: url(/images/my_av.png);
 	padding: 16px;
 	border-radius: 100%;
 	margin: 4px 15px 0 10px;
@@ -125,8 +125,11 @@ body {
 	border: 0;
 	opacity: 0.9;
 	border-radius: 2px;
-	font-size: 14x;
+	font-size: 13px;
 	font-weight: 400;
+	background-color: #eee;
+	text-decoration: none;
+	color: #000;
 }
 
 .buttons:hover {
