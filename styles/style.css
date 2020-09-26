@@ -42,7 +42,7 @@ body {
 	margin-left: 5px;;
 	margin-top: 6px;
 	padding: 14px 15px;
-	background-image: url(/images/apps.png);
+	background-image: url(../images/apps.png);
 	background-position: -132px -38px;
 	opacity: 0.55;
 	
@@ -53,7 +53,7 @@ body {
 }
 
 #user-image {
-	background-image: url(/images/my_av.png);
+	background-image: url(../images/my_av.png);
 	padding: 16px;
 	border-radius: 100%;
 	margin: 4px 15px 0 10px;
