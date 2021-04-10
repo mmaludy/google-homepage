@@ -11,3 +11,7 @@ Buttons bottom search bar are clickable. When you click "Google Search" you will
 ### Google result page
 ![Side view](https://i.imgur.com/kpYXzMd.png)
 There are no pictures in the navigation menu, but they are not the most important thing in this project.
+
+---
+
+[Go live here](https://mmaludy.github.io/google-homepage/)
